@@ -30,30 +30,10 @@ The `Rifle` class is a weapon class that simulates a rifle. It provides function
 
 The `ExplodingBarrel` class represents a barrel that explodes when triggered. It demonstrates how to create objects with dynamic behavior, such as explosive effects and damage propagation. This class can be used to create interactive and destructible elements in your game world.
 
-## Usage
-
-To use these classes in your Unreal Engine project, follow these steps:
-
-1. Clone or download this repository to your local machine.
-2. Open your Unreal Engine project.
-3. Copy the desired class files from the repository into your project's source code directory.
-4. Recompile your project to include the new classes.
-5. In the Unreal Editor, you can now use the new classes in your game levels or Blueprints.
-
-Note: Remember to properly credit and reference this repository if you use the code provided.
-
-## Contributing
-
-Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional classes that you'd like to share, please open a pull request. Be sure to follow the coding style and include appropriate documentation for your changes.
-
-## License
-
-This code is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own projects.
 
 ## Acknowledgements
 
 - [Unreal Engine](https://www.unrealengine.com/) - The game engine used for development.
-- [OpenAI](https://openai.com/) - The organization behind ChatGPT, the AI model that generated this README.
 
 ---
 
